@@ -1,5 +1,5 @@
 settings:
-  bungeecord: true
+  bungeecord: false
 
 world-settings:
   default:
