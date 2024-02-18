@@ -96,7 +96,7 @@ proxies:
   velocity:
     enabled: true
     online-mode: true
-    secret: {{server.build.env.VELOCITY_SECRET}}
+    secret: supersecret
 scoreboards:
   save-empty-scoreboard-teams: false
   track-plugin-scoreboards: false
